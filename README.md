@@ -10,12 +10,12 @@
 # 🎓Education
 - 📚 **Major: Artificial Intelligence**
   - 🏫 <span style="color:orange; animation: blink 1s infinite;">**FPT UNIVERSITY**</span>
-  - 📅 **Graduation Year:** 2026
+  - 📅 **Start Date:** 2022-10 | **End Date:** 2026
   - 📜 **Relevant Courses:** Course 1, Course 2, Course 3
   - 
 # 📚 **Additional Online Courses**
-  - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Vietnam](https://www.facebook.com/aivietnam.edu.vn)
-    - 📅 **Start Date:** YYYY-MM | **End Date:** YYYY-MM
+  - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
+    - 📅 **Start Date:** 2024-6 | **End Date:** 
     - 📜 **Course Topics:** Topic 1, Topic 2, Topic 3
     - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
 
@@ -28,11 +28,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=vuhuyng&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vuhuyng&icon=0&color=0)](https://visitcount.itsvg.in)
