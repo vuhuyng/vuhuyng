@@ -11,14 +11,11 @@
 - 📚 **Major: Artificial Intelligence**
   - 🏫 <span style="color:orange; animation: blink 1s infinite;">**FPT UNIVERSITY**</span>
   - 📅 **Start Date:** 2022-10 | **End Date:** 2026
-  - 📜 **Relevant Courses:** Course 1, Course 2, Course 3
-  - https://drive.google.com/file/d/1nnOAALdVDhRbC50wzJAxbVCtrICJhVen/view?usp=sharing
-  - [cc](https://coursera.org/share/31a7907f5c266c374d4eb2a06671fe14)
+
 
 # 📚 **Additional Online Courses**
   - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
     - 📅 **Start Date:** 2024-6 | **End Date:** 
-    - 📜 **Course Topics:** Topic 1, Topic 2, Topic 3
     - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
 
 
