@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 # 🎓Education
 - 📚 **Major: Artificial Intelligence**
-  - 🏫 **FPT UNIVERSITY**
+  - 🏫 <span style="color:orange; animation: blink 1s infinite;">** FPT UNIVERSITY **</span>
   - 📅 **Graduation Year:** 2026
   - 📜 **Relevant Courses:** Course 1, Course 2, Course 3
 
