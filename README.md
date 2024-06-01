@@ -29,12 +29,7 @@
   </a>
 
 
-  <a href="https://github.com/vuhuyng/test/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=test&theme=highcontrast" />
-  </a>
-  <a href="https://github.com/vuhuyng/test/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=test&theme=highcontrast" />
-  </a>
+
 
 
 
