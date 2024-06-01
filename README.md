@@ -14,10 +14,11 @@
   - 📜 **Relevant Courses:** Course 1, Course 2, Course 3
   - 
 # 📚 **Additional Online Courses**
-  - 🏫 **[AIO2024](link_to_course)** - [Some Programming Center](link_to_fanpage)
+    - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Vietnam](https://www.facebook.com/aivietnam.edu.vn)
     - 📅 **Start Date:** YYYY-MM | **End Date:** YYYY-MM
     - 📜 **Course Topics:** Topic 1, Topic 2, Topic 3
-    - 🔗 **Website:** [Center's Website](link_to_center_website)
+    - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=vuhuyng&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
