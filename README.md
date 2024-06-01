@@ -23,6 +23,12 @@
 - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
   - 📅 **Start Date:** 2024-6 | **End Date:** 
   - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
+    
+  <a href="https://github.com/vuhuyng/test/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=test&theme=onedark" />
+  </a>
+
+
 
 
 
