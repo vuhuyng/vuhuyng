@@ -25,7 +25,7 @@
   - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
     
   <a href="https://github.com/vuhuyng/test/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=test&theme=onedark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=test&theme=highcontrast" />
   </a>
 
 
