@@ -7,10 +7,29 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=plastic&logo=seaborn&logoColor=white)
-# 🎓Education                         | # 📚 Additional Online Courses
-- 📚 **Major: Artificial Intelligence** |   - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
-  - 🏫 <span style="color:orange; animation: blink 1s infinite;">**FPT UNIVERSITY**</span>            |     - 📅 **Start Date:** 2024-6 | **End Date:** 
-  - 📅 **Start Date:** 2022-10 | **End Date:** 2026      |     - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h2>🎓 Education</h2>
+    <ul>
+      <li><strong>Major:</strong> Artificial Intelligence</li>
+      <ul>
+        <li><span style="color: orange; animation: blink 1s infinite;"><strong>FPT UNIVERSITY</strong></span></li>
+        <li><strong>Start Date:</strong> 2022-10 | <strong>End Date:</strong> 2026</li>
+      </ul>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <h2>📚 Additional Online Courses</h2>
+    <ul>
+      <li><strong><a href="https://www.facebook.com/aivietnam.edu.vn">AIO2024</a></strong> - <a href="https://www.facebook.com/aivietnam.edu.vn">AI Viet Nam</a></li>
+      <ul>
+        <li><strong>Start Date:</strong> 2024-6 | <strong>End Date:</strong></li>
+        <li><strong>Website:</strong> <a href="https://aivietnam.edu.vn/">AI Vietnam Website</a></li>
+      </ul>
+    </ul>
+  </div>
+</div>
+
 
 
 
