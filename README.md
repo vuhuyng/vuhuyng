@@ -1,5 +1,5 @@
 <img align='left' src='https://github.com/vuhuyng/vuhuyng/blob/main/AI.gif' width='100' height='100'>
-<p>Huy Nguyen Vu </p>
+<h3>Huy Nguyen Vu </h3>
 
 
 
