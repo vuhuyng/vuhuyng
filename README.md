@@ -12,7 +12,12 @@
   - 🏫 <span style="color:orange; animation: blink 1s infinite;">**FPT UNIVERSITY**</span>
   - 📅 **Graduation Year:** 2026
   - 📜 **Relevant Courses:** Course 1, Course 2, Course 3
-
+  - 
+- 📚 **Additional Online Courses**
+  - 🏫 <span style="color:orange;">**[AIO2024]([link_to_course](https://www.facebook.com/aivietnam.edu.vn?locale=vi_VN))**</span> - <span style="font-weight:normal">[Some Programming Center](link_to_center_website)</span>
+  - 📅 **Start Date:** YYYY-MM | **End Date:** YYYY-MM
+  - 📜 **Course Topics:** Topic 1, Topic 2, Topic 3
+  - 🔗 **Fan Page:** [Facebook Page](link_to_fanpage)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=vuhuyng&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vuhuyng&theme=radical&hide_border=false)<br/>
