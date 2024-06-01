@@ -15,11 +15,11 @@
 # 🎓 Education
 - 📚 **Major: Artificial Intelligence**
   - 🏫 <span style="color:orange;">**FPT UNIVERSITY**</span>
-  - 📅 **Start Date:** 2022-10 | **End Date:** 2026
+  - 📅 **Start Date:** 2022-10 | **End Date:** __
 
 # 📚 **Courses**
 - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
-  - 📅 **Start Date:** 2024-6 | **End Date:** 
+  - 📅 **Start Date:** 2024-6 | **End Date:** __
   - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
     
     <a href="https://github.com/vuhuyng/test/">
