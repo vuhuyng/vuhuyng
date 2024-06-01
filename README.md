@@ -11,25 +11,16 @@
 <!-- Left column -->
 <div style="width: 45%;">
   
-  # 🎓 Education
-  
-  - 📚 **Major: Artificial Intelligence**
-    - 🏫 <span style="color: orange; animation: blink 1s infinite;"><strong>FPT UNIVERSITY</strong></span>
-    - 📅 **Start Date:** 2022-10 | **End Date:** 2026
-  
-</div>
+# 🎓Education
+- 📚 **Major: Artificial Intelligence**
+  - 🏫 <span style="color:orange; animation: blink 1s infinite;">**FPT UNIVERSITY**</span>
+  - 📅 **Start Date:** 2022-10 | **End Date:** 2026
 
-<!-- Right column -->
-<div style="width: 45%;">
-  
-  # 📚 Additional Online Courses
-  
+
+# 📚 **Additional Online Courses**
   - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
     - 📅 **Start Date:** 2024-6 | **End Date:** 
     - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
-  
-</div>
-</div>
 
 
 
