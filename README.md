@@ -13,7 +13,7 @@
   - 📅 **Start Date:** 2022-10 | **End Date:** 2026
   - 📜 **Relevant Courses:** Course 1, Course 2, Course 3
   - https://drive.google.com/file/d/1nnOAALdVDhRbC50wzJAxbVCtrICJhVen/view?usp=sharing
-  - ![Tên hình ảnh](https://drive.google.com/file/d/1nnOAALdVDhRbC50wzJAxbVCtrICJhVen/view?usp=sharing)
+  - [cc](https://coursera.org/share/31a7907f5c266c374d4eb2a06671fe14)
 
 # 📚 **Additional Online Courses**
   - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
