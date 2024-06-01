@@ -14,7 +14,7 @@
   - 📜 **Relevant Courses:** Course 1, Course 2, Course 3
   - 
 # 📚 **Additional Online Courses**
-    - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Vietnam](https://www.facebook.com/aivietnam.edu.vn)
+  - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Vietnam](https://www.facebook.com/aivietnam.edu.vn)
     - 📅 **Start Date:** YYYY-MM | **End Date:** YYYY-MM
     - 📜 **Course Topics:** Topic 1, Topic 2, Topic 3
     - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
