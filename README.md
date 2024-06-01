@@ -19,7 +19,7 @@
   - 🏫 <span style="color:orange;">**FPT UNIVERSITY**</span>
   - 📅 **Start Date:** 2022-10 | **End Date:** 2026
 
-# 📚 **Additional Online Courses**
+# 📚 **Additional Courses**
 - 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
   - 📅 **Start Date:** 2024-6 | **End Date:** 
   - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
