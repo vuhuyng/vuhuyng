@@ -27,6 +27,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=vuhuyng&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+    <a href="https://github.com/vuhuyng/test"><b>Tên Repo</b></a>
+    <img src="link-to-fork-icon" alt="Fork Icon" width="20px">
+    <span style="color: #555;">Ngôn ngữ: Python</span>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vuhuyng&icon=0&color=0)](https://visitcount.itsvg.in)
