@@ -36,10 +36,6 @@
 
 
 
-
-
-
-
 # 📊GitHub Stats :
 <div style="display: flex; justify-content: space-between;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vuhuyng&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
@@ -49,9 +45,18 @@
 
 
 ## 🌐Contact
+[<img height="32" align="left" alt="Mail" src="https://github.com/vuhuyng/vuhuyng/blob/main/maillogo.png" />](mailto:your-email@example.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vuhuy004) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vuhuyng) 
+
+
+
+<img src="https://github.com/vuhuyng/vuhuyng/blob/main/z5501071587326_e12257fa264f77bdc2b2dd8cd73e81ee.jpg"  style="width: 15%" />
+
+
+
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h3>Email: huynvce180384@fpt.edu.vn</h3>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
