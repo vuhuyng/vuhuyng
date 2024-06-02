@@ -22,8 +22,8 @@
   - 📅 **Start Date:** 2024-6 | **End Date:** __
   - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
     
-    <a href="https://github.com/vuhuyng/test/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=test&theme=onedark&cache_seconds=1800" />
+    <a href="https://github.com/vuhuyng/AIO2024-Exercise">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=AIO2024-Exercise&theme=onedark&cache_seconds=1800" />
     </a>
 
 
