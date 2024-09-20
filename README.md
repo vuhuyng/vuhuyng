@@ -12,19 +12,12 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=plastic&logo=seaborn&logoColor=white)
 
 
-# 🎓 Education
-- 📚 **Major: Artificial Intelligence**
-  - 🏫 <span style="color:orange;">**FPT UNIVERSITY**</span>
-  - 📅 **Start Date:** 2022-10 | **End Date:** __
 
-# 📚 **Courses**
-- 🏫 **[AIO2024](https://www.facebook.com/aivietnam.edu.vn)** - [AI Viet Nam](https://www.facebook.com/aivietnam.edu.vn)
-  - 📅 **Start Date:** 2024-6 | **End Date:** __
-  - 🔗 **Website:** [AI Vietnam Website](https://aivietnam.edu.vn/)
-    
-    <a href="https://github.com/vuhuyng/AIO2024-Exercise">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=AIO2024-Exercise&theme=onedark&cache_seconds=1800" />
-    </a>
+# 📚 **Repo**
+
+<a href="https://github.com/vuhuyng/AIO2024-Exercise">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=AIO2024-Exercise&theme=onedark&cache_seconds=1800" />
+</a>
 
 
 
@@ -44,14 +37,8 @@
 
 
 
-## 🌐Contact
-[<img height="32" align="left" alt="Mail" src="https://github.com/vuhuyng/vuhuyng/blob/main/maillogo.png" />](mailto:your-email@example.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vuhuy004) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vuhuyng) 
 
 
-
-<img src="https://github.com/vuhuyng/vuhuyng/blob/main/z5501071587326_e12257fa264f77bdc2b2dd8cd73e81ee.jpg"  style="width: 15%" />
 
 
 
